@@ -6,4 +6,5 @@ https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
 Execute following command to start the server :
 ```
 $ export FLASK_APP=server.py
+$ python -m flask run
 ```
